@@ -1,12 +1,6 @@
 !["Broken" badge to remind us to fix the URLs on the "real" badges](https://img.shields.io/badge/FIX_BADGES-Badges_below_need_to_be_updated-red)
 
-> **Make sure you update the links for the badges below so they point
-> to _your_ project and not the "starter" copy. You also need to make
-> sure that analysis checks are being run on all pull requests.** See
-> [`CODE-QUALITY-CHECKS.md`](CODE-QUALITY-CHECKS.md)
-> for info on how to do that.
->
-> Feel free to remove the badge above and this text when you've
+e the badge above and this text when you've
 > dealt with that.
 # CSCI 3601 Iteration Template
 
@@ -14,23 +8,8 @@
 [![Client Build Status](../../actions/workflows/client.yaml/badge.svg)](../../actions/workflows/client.yaml)
 [![End to End Build Status](../../actions/workflows/e2e.yaml/badge.svg)](../../actions/workflows/e2e.yaml)
 
-[![BCH compliance](https://bettercodehub.com/edge/badge/UMM-CSci-3601/3601-iteration-template?branch=master)](https://bettercodehub.com/)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/UMM-CSci-3601/3601-iteration-template.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/UMM-CSci-3601/3601-iteration-template/alerts/)
-
-This is your starter code for Iteration 1.
-
-There are a number of pieces in this production template to help you get started. As you work on your project, you should replace some of these pieces with elements of your project and remove whatever you don't need (e.g., markdown files, JSON data files, or any remnants of the labs).
-
-## Setup
-
-As in the previous lab, you'll be using VS Code and GitKraken. Once you've all joined your
-group using GitHub classroom, you can clone your repository using the command line or GitKraken:
-
-* From the file menu, choose **Clone Repo**
-* Choose GitHub.com in the middle column (as the source location of your repo)
-* Browse to the location you'd like to put the local copy of this project repo
-* Select the correct repo from the list of repositories
-* Select **Clone the repo!**
+[![BCH compliance](https://bettercodehub.com/edge/badge/schu4276/portfolio?branch=master)](https://bettercodehub.com/)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/schu4276/portfolio.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/schu4276/portfolio/alerts/)
 
 ## Running your project
 
